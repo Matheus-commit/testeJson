@@ -1,3 +1,3 @@
-# testeJson
+#Teste Json
 
-Transformando um objeto em formato Json com a biblioteca GSON.
+Transformando um objeto de uma classe java em formato Json, usando a biblioteca GSON. 
